@@ -1,0 +1,170 @@
+body{
+font-size: 16px;
+font-family: メイリオ；
+}
+
+
+
+
+header{
+    top:0px;
+    left:0px;
+    width:100%;
+    height:30px;
+    background-color: black;
+}
+
+.example1{
+    width: 350px;
+}
+
+header ul{
+    float:left;
+    line-height: 3px;
+}
+
+header ul li{
+    float:left;
+    list-style: none;
+    padding-right: 30px;
+    color:white;
+    font-size: 13px;
+}
+
+
+
+.right{
+    float:left;
+    background-color: white;
+    width: 30%;
+    height:1500px;
+    margin-top: 20px;
+}
+
+.left{
+    float:left;
+    background-color: white;
+    width: 70%;
+    height: 1500px;
+    margin-top: 10px;    
+}
+
+h1{
+   font-size: 30px;
+   border-left:3px solid black;
+   border-bottom: 2px solid lightgray;
+   margin-left: 3px;    
+}
+ 
+h3{　margin: 0 auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  border-left: 4px red solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  width: 500px;
+  font-size: 20px;
+}
+
+form{margin: 0 auto;
+    margin-bottom: 15px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 950px;
+}
+    
+form div{
+    padding: 15px;
+}
+    
+.text,textarea.dropdown{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #999;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+form{
+    clear: both;
+}
+    
+
+h4{
+    font-size: 15px;
+    border-bottom: 2px solid lightgray;
+    padding-left: 10px;
+}
+
+h2{
+    font-size: 25px;
+    border-bottom: 2px dotted lightgray;
+    margin-left: 70px;
+}
+
+.kiji{margin: 0 auto;
+    margin-top: 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 950px;
+}
+
+.contents{
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+.handlename{
+    font-size: 10px;
+    padding-left: 3px;
+}
+
+
+
+
+.right ul li{
+     list-style: none;
+     margin-left:30px;
+     margin-bottom:10px;
+     color:black;
+     font-size: 15px;
+    
+        
+}
+
+
+footer{
+    clear: both;
+}
+
+
+
+footer{
+    width: 100%;
+    height: 30px;
+    background-color: black;
+    color:white; 
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
